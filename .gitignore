@@ -1,1 +1,2 @@
-*.sh
+.ipynb_checkpoints/
+embeddings
